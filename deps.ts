@@ -1,0 +1,1 @@
+export uuid from "https://deno.land/std@0.79.0/uuid/v5.ts";
